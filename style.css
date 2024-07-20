@@ -1,0 +1,36 @@
+*{
+    background-color:#0C0C0C ;
+}
+.TopBox{
+    width: 100%;
+    height: 50px;
+    background-color: #0C0C0C;
+    border: 10px solid #0C0C0C;
+}
+.gif{
+    width: 100%;
+    border: 10px solid black;
+    border-width: 0px 10px 10px 10px;
+    border-image: linear-gradient(to bottom, #0C0C0C,#481E14,#9B3922,#0C0C0C) 5;
+    margin: 0;
+}
+
+.this{
+    text-align: center;
+    background:linear-gradient(to bottom, #0C0C0C,#9B3922,#0C0C0C);
+    border: 10px solid black;
+    border-image: linear-gradient(to bottom, #0C0C0C,#9B3922,#0C0C0C) 3;
+    margin: 0%;
+    width: 100%;
+    color: aliceblue;
+
+}
+.lead{
+    text-align: center;
+    background:linear-gradient(to bottom, #0C0C0C,#9B3922,#0C0C0C);
+    border: 10px solid black;
+    border-image: linear-gradient(to bottom, #0C0C0C,#9B3922,#0C0C0C) 3;
+    margin: 0%;
+    width: 100%;
+    color: aliceblue;
+}
